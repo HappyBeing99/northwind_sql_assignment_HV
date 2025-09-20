@@ -1,2 +1,11 @@
 # northwind_sql_assignment_HV
-SQL queries for Northwind database assignment
+
+This repository contains SQL queries for the Northwind database assignment.  
+
+## Contents
+- `Harsh_Singh_CPDA_Batch05.sql` → SQL queries for 15 assignment questions.
+- Queries include extract and manipulate data using SELECT queries, filtering, joins, aggregation (COUNT, SUM, AVG) with GROUP BY and HAVING, subqueries, and ranking.
+
+## Database
+- Sample database: northwind
+- Tables used: products, orders, orderdetails, customers, employees, suppliers, categories
