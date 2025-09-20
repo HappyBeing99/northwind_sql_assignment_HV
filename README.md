@@ -7,5 +7,5 @@ This repository contains SQL queries for the Northwind database assignment.
 - Queries include extract and manipulate data using SELECT queries, filtering, joins, aggregation (COUNT, SUM, AVG) with GROUP BY and HAVING, subqueries, and ranking.
 
 ## Database
-- Sample database: northwind
+- Database: northwind
 - Tables used: products, orders, orderdetails, customers, employees, suppliers, categories
